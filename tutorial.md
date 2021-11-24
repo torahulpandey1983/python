@@ -2,7 +2,8 @@
 https://www.markdownguide.org/cheat-sheet/
 ---
 **Display message :**
-   1. print("hello World")
-**Execute: **
-   1. python3 hello.py
+   - print("hello World")
+   
+**Execute:**
+   - python3 hello.py
    
